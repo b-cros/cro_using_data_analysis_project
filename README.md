@@ -1,5 +1,5 @@
 # cro_using_data_analysis_project
-AI immersive Bootcamp final project: Conversion Rate Optimization Using Data Analysis
+AI immersive Bootcamp final project: Conversion Rate Optimization Using Data Analysis.
 As a marketer I want to solve a really common issue for any company that does digital marketing advertising: the conversion rate optimization.
 Using a dataset of a Brazilian marketplace, the analysis has 3 KPI's: 
 Where: to find out where the best sellers are, which delivery timing.
